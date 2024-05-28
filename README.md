@@ -1,1 +1,1 @@
-# vite-glsl
+# glsl-types-ts
